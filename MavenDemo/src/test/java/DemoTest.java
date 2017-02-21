@@ -7,6 +7,7 @@ public class DemoTest {
 	public void test1()
 	{
 		System.out.println("Hello Team!!");
+		System.out.println("Good Byee Team!!");
 	}
 
 }
